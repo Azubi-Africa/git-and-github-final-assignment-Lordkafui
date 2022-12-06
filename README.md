@@ -20,10 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
-
+| 1 | Simple Mortgage Calculator              |  Creating a Simple Mortgage Calculator             | https://github.com/Lordkafui/Simple-Mortgage-Calculator       |
+| 2 | Simple Store Data Analysis            |  Analysing  a Store Dataset           | https://github.com/Lordkafui/Sample-Store-Analysis      |
+| 3 | Numpy and Pandas Analysis           |  Analyzing dataset with Pandas and Numpy            | https://github.com/Lordkafui/Numpy-and-Pandas-Analysis
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
 ## Setup
